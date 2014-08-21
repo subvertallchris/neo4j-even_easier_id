@@ -1,0 +1,4 @@
+Copyright (c) 2014 Chris Grigg
+
+Object ID generation code originally from the Ruby BSON library,
+Copyright (C) 2009-2013 MongoDB, Inc.

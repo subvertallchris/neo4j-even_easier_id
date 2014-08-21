@@ -9,7 +9,7 @@ module Neo4j
         id_property id_field, on: :even_easier_id
       end
     end
-    include NewId
+    include EvenEasierId
 
     require 'digest'
     require 'socket'
